@@ -6,13 +6,13 @@
 
 - 🏵️ You can check my personal website [here](https://amiyaislam.com)
 
-- 💫 I’m currently working on a Cloud Project that utilizes AWS and Terraform
+- 💫 Spearheading a cutting-edge Cloud Project with a focus on AWS and Terraform.
 
-- 🌀 I’m currently studying for my AWS Developer Associate Certification
+- 🌀 Advancing my expertise in cloud services by preparing for the AWS Developer Associate Certification
 
 - 🏋️‍♂️ When I'm not cloud engineering, you can find me powerlifting, exploring stock markets, enjoying nature, or strategizing over a game of chess
 
-- 🌩️ On a mission to make the cloud less "cloudy"
+- 🌩️ Committed to making the cloud less "cloudy" and creating more user-friendly solutions for everyone
 
 <br/>
 
