@@ -6,9 +6,7 @@
 
 - 🏵️ You can check my personal website [here](https://amiyaislam.com)
 
-- 💫 Spearheading a cutting-edge Cloud Project with a focus on AWS and Terraform.
-
-- 🌀 Advancing my expertise in cloud services by preparing for the AWS Developer Associate Certification
+- 🌀 Advancing my expertise in cloud services by preparing for the AWS Developer Associate Certification and Spearheading a cutting-edge Cloud Project with a focus on AWS, Terraform, and Jenkins.
 
 - 🏋️‍♂️ When I'm not cloud engineering, you can find me powerlifting, exploring stock markets, enjoying nature, or strategizing over a game of chess
 
