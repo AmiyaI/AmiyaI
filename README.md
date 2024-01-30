@@ -2,7 +2,7 @@
 <img src="https://imgur.com/BArdpCC.png" align="center" style="width: 20%" />
 </div>
 
-## <div align="center">I'm Amiya, a 22-year-old recent Virginia Tech graduate from Blacksburg, VA, deeply passionate about the field of Cloud Engineering 🛸</div>
+## <div align="center">I'm Amiya, a 23-year-old recent Virginia Tech graduate from Blacksburg, VA, deeply passionate about the field of Cloud Engineering 🛸</div>
 
 - 🏵️ You can check my personal website [here](https://amiyaislam.com)
 
